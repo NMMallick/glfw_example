@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/some_random_binary.dir/src/testGLFW.cpp.o  -o some_random_binary  external/glfw/src/libglfw3.a -lpthread /usr/lib/x86_64-linux-gnu/librt.so -lm -ldl 
